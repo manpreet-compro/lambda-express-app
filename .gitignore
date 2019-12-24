@@ -1,0 +1,12 @@
+#npm packages
+node_modules/
+
+#editor
+.vscode/
+
+#log files
+*.log
+
+#nyc
+.nyc_output/
+coverage/
